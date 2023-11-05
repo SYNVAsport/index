@@ -10832,19 +10832,19 @@ textarea.form-control-lg {
       display:flex;
       align-items:center;
   }
-  .ssocial-icon
+  .social-icon
   {
     display: block;
-    height: 10px;
-    width: 10px;
+    height: 2px;
+    width:  2px;
 
   }
 
   .social-img
   {
     object-fit: contain;
-    width: 10px;
-    height: 10px;
+    width:  2px;
+    height: 2px;
   }
 
 
